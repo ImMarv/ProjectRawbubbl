@@ -11,3 +11,5 @@ It includes all the tools any scanlator would ever need, including:
 - An automatic text and font recognition system.
 
 **This may change depending on how easy it is to implement. I am not any genius, I am still learning.**
+### Prototype
+![this drawio](https://github.com/ImMarv/ProjectRawbubbl/assets/94709651/b23fd72c-877e-403d-a14b-1c997b0450eb)
